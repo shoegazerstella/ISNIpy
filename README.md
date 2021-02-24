@@ -1,2 +1,8 @@
 # ISNIpy
-Perform searches on the ISNI db by ID or string query.
+Perform searches on the [ISNI](https://isni.org/page/search-database/) DB.
+
+### usage
+```
+```
+
+
