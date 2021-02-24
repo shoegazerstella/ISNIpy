@@ -1,5 +1,5 @@
 # ISNIpy
-Perform searches on the [ISNI](https://isni.org/page/search-database/) database.
+Search the [ISNI](https://isni.org/page/search-database/) database in python.
 
 ### usage
 * search for specific ISNI ID
